@@ -124,3 +124,6 @@ Engineering Student | Data Analytics & Machine Learning Enthusiast
 ## Data Analytics Intern at Develet
 
 Project developed as part of the Develet Data Analytics Internship Program.
+
+<img width="1781" height="905" alt="Screenshot 2026-06-14 155346" src="https://github.com/user-attachments/assets/de50dd0d-69db-4793-bd7f-b8a466263a14" />
+
